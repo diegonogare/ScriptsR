@@ -1,4 +1,4 @@
-DataScience
+Scripts R
 ===========
 
-Códigos de pacotes pra rodar em R e Matlab
+Códigos de pacotes pra rodar em R
